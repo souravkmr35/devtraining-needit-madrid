@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Service Order" max_length="40" name="x_58872_needit_u_service_order" type="collection">
+        <element label="Caller Details" max_length="40" name="caller_details" type="string"/>
+        <element label="Service" max_length="40" name="service" type="string"/>
+        <element label="Work Orders" max_length="40" name="work_orders" type="string"/>
+    </element>
+</database>
